@@ -3,7 +3,7 @@ title: 使用 PowerDesigner 从 MySQL 反向工程生成物理数据模型并优
 published: 2026-05-19
 pinned: false
 description: 使用 PowerDesigner 从 MySQL 数据库反向生成物理数据模型（PDM），并批量替换中文注释、按模块分组、优化布局的完整流程。
-image: "https://media.yuxh.cc/blog/20260121150222.png"
+image: "/assets/images/wallpaper/wallpaper-22.webp"
 tags: [数据库, PowerDesigner, MySQL]
 category: 笔记
 draft: false

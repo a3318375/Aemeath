@@ -8,6 +8,7 @@ draft: false
 author: yuxh
 sourceLink: https://github.com/a3318375/xhdocs/blob/main/content/docs/smart-doc-to-openapi.mdx
 aiPolished: false
+image: "/assets/images/wallpaper/wallpaper-13.webp"
 ---
 
 ## 背景

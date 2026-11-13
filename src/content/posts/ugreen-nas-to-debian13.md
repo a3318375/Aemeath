@@ -3,7 +3,7 @@ title: 为什么我最终把绿联 NAS 重装成了 Debian 13
 published: 2026-07-27
 pinned: false
 description: 一次绿联 NAS 迁移记录：备份原系统盘、覆盖安装 Debian 13、处理旧数据盘、重建 ext4、迁移 Docker 到 SSD，并把机械盘休眠、唤醒日志、温度和风扇灯控补齐。
-image: ""
+image: "/assets/images/wallpaper/wallpaper-43.webp"
 tags: [绿联 NAS, Debian 13, Docker, ext4, 硬盘休眠]
 category: HomeLab
 draft: false

@@ -8,6 +8,7 @@ draft: false
 author: yuxh
 sourceLink: https://github.com/a3318375/xhdocs/blob/main/content/docs/spring-validation.mdx
 aiPolished: false
+image: "/assets/images/wallpaper/wallpaper-28.webp"
 ---
 
 参数校验这件事，麻烦的从来不是写 `@NotNull`，而是分组、嵌套和错误信息怎么统一。
