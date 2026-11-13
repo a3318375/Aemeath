@@ -1,8 +1,8 @@
 import type { ProfileConfig } from "../types/profileConfig";
 
 export const profileConfig: ProfileConfig = {
-	avatar: "/assets/ai-xiaoai-avatar.png",
-	name: "你的昵称",
-	bio: "请填写自己的简介",
+	avatar: "/assets/yoyo-avatar.webp",
+	name: "yoyo",
+	bio: "折腾技术，也记点日常。",
 	links: [],
 };
